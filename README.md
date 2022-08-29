@@ -2,9 +2,8 @@
 </br>
 
 
-<p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwo-ua&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Dotfiles)](https://github.com/Uwo-ua/Dotfiles)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwo-ua&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwo-ua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+
