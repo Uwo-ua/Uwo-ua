@@ -9,6 +9,7 @@
   <a href="https://archlinux.org/"> <img src="https://img.shields.io/badge/DIS-Arch-74c7ec?style=flat&logo=arch-linux" /> </a>
   <a href="https://github.com/baskerville/bspwm"> <img src="https://img.shields.io/badge/WM-BSPWM-orange?style=flat&logo=c" /> 
   </a>
+  <br />
   <a href="https://github.com/catppuccin/catppuccin"> <img src="https://img.shields.io/badge/THM-Catppuccin-1e1e2e?style=flat&logo=coffeescript" /> </a>
   <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/IDE-Neovim-a6e3a1?style=flat&logo=neovim" /> </a>
   <img src="https://img.shields.io/badge/LANG-Javascript-fab387?style=flat&logo=javascript" />
