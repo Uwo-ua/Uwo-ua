@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LANG-Javascript-fab387?style=flat&logo=javascript" />
   <br />
   <a href="https://www.npmjs.com/~uwo"> <img src="https://img.shields.io/badge/My-Programs-94e2d5?style=flat&logo=npm" /> </a>
-  <a href="https://tovstolaki62@gmail.com/"> <img src="https://img.shields.io/badge/EMail-181825?style=flat&logo=gmail" /> </a>
+  <a href="mailto:tovstolaki62@gmail"> <img src="https://img.shields.io/badge/EMail-181825?style=flat&logo=gmail" /> </a>
   <a href="http://t.me/uvanee"> <img src="https://img.shields.io/badge/Telegram-74c7ec?style=flat&logo=telegram" /> </a>
 
 </div>
