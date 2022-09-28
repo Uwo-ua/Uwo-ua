@@ -16,7 +16,10 @@
   <a href="https://www.npmjs.com/~uwo"> <img src="https://img.shields.io/badge/My-Programs-94e2d5?style=flat&logo=npm" /> </a>
   <a href="mailto:tovstolaki62@gmail"> <img src="https://img.shields.io/badge/EMail-181825?style=flat&logo=gmail" /> </a>
   <a href="http://t.me/uvanee"> <img src="https://img.shields.io/badge/Telegram-74c7ec?style=flat&logo=telegram" /> </a>
-
+  <br />
+  <br /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=uwo-ua&show_icons=true&theme=onedark&line_height=20&hide_border=true&hide_rank=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwo-ua&layout=compact&theme=onedark&card_width=7&hide_title=true&hide_rank=true&show_icons=true&hide_border=true" /> 
 </div>
 
 
