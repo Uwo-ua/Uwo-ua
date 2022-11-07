@@ -1,6 +1,9 @@
-
+<div align="center">
+  
 <img align="center" height=300px width=300px alt="Catpuccino gif" src="https://media.giphy.com/media/TexuKBfvpWjaIuACrz/giphy.gif" />
 
+</div>
+  
 <div align="center">
   
   <h1> Hi! I`m Uwo </h1>
