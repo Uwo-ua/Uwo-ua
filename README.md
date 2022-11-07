@@ -1,4 +1,5 @@
 
+<img align="right" height=300px width=300px alt="Catpuccino gif" src="https://media.giphy.com/media/TexuKBfvpWjaIuACrz/giphy.gif" />
 
 <div align="center">
   
