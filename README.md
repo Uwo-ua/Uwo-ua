@@ -16,7 +16,7 @@
   <br />
   <a href="https://github.com/catppuccin/catppuccin"> <img src="https://img.shields.io/badge/THM-Catppuccin-1e1e2e?style=flat&logo=coffeescript" /> </a>
   <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/IDE-Neovim-a6e3a1?style=flat&logo=neovim" /> </a>
-  <img src="https://img.shields.io/badge/LANG-Haskell-fab387?style=flat&logo=haskell" />
+  <img src="https://img.shields.io/badge/LANG-Python-fab387?style=flat&logo=python" />
   <br />
   <a href="https://www.npmjs.com/~uwo"> <img src="https://img.shields.io/badge/My-Programs-94e2d5?style=flat&logo=npm" /> </a>
   <a href="mailto:tovstolaki62@gmail"> <img src="https://img.shields.io/badge/EMail-181825?style=flat&logo=gmail" /> </a>
